@@ -17,6 +17,7 @@ public class MidtermExercise {
         // TODO code application logic here
         // Add comment
         System.out.print("Hello Git");
+        System.out.print("Hello World");
     }
     
 }
