@@ -7,6 +7,7 @@ package midtermexercise;
 /**
  *
  * @author umin
+ I change in github
  */
 public class MidtermExercise {
     public int times;
