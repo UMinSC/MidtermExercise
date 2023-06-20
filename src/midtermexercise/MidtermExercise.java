@@ -9,7 +9,8 @@ package midtermexercise;
  * @author umin
  */
 public class MidtermExercise {
-
+    public int times;
+    
     /**
      * @param args the command line arguments
      */
@@ -18,5 +19,18 @@ public class MidtermExercise {
         // Add comment
         System.out.print("Hello Git");
     }
+
+    public MidtermExercise() {
+    }
+
+    public int getTimes() {
+        return times;
+    }
+
+    public void setTimes(int times) {
+        this.times = times;
+    }
+    
+    
     
 }
